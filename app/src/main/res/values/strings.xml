@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GitHubSocial</string>
+    <string name="users_name">Nama User</string>
+    <string name="search_hint">Cari Nama User</string>
+    <string name="tab_follower">Follower</string>
+    <string name="tab_following">Following</string>
+    <string name="location">From :</string>
+    <string name="followers">Followers :</string>
+    <string name="following">Following :</string>
+    <string name="no_result">User Tidak Ditemukan</string>
+    <string name="favorite">Favorite User</string>
+    <string name="setting">Setting Reminder</string>
+    <string name="pref_setting">Preference Setting</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="every_morning">Alarm Setiap Pukul 9.00 AM</string>
+    <string name="title_favorite">Favorite User</string>
+    <string name="title_setting">Setting</string>
+    <string name="reminder_title">Buka Github User Sekarang</string>
+    <string name="reminder_message">Cari dan Temukan User Favoritmu</string>
+    <string name="title_Main">GitHub Social</string>
+    <string name="reminder_on">Reminder Alarm Aktif</string>
+    <string name="reminder_off">Reminder Alarm Nonaktif</string>
+    <string name="main_text">Temukan User Favoritmu</string>
+</resources>

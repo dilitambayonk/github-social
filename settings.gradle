@@ -1,0 +1,3 @@
+include ':clientapp'
+include ':app'
+rootProject.name = "GitHubSocial"
